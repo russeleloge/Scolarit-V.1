@@ -1,0 +1,29 @@
+body {
+    padding: 10px;
+}
+
+.table1 .elt1 {
+    line-height: 5mm;
+    border: 1px solid black;
+}
+
+thead {
+    background: black;
+    color: white !important;
+}
+
+table {
+    width: 100%;
+    color: black;
+    font-family: helvetica;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.table2 .elt2 {
+    border-collapse: collapse;
+}
+
+.table2 .elt2 {
+    border: 1px solid black;
+}
