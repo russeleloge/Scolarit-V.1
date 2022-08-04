@@ -733,12 +733,10 @@ function modif_vers() {
                             timer: 2900
                         })
                         setTimeout(() => {
-                            // document.location.href = 'accueil.php'
                             document.location.href = '../traitement/gestionnaire/recu/contenu.php'
                         }, 3000)
                         setTimeout(() => {
                             document.location.href = 'accueil.php'
-                            // document.location.href = '../traitement/gestionnaire/recu/contenu.php'
                         }, 7000)
                         // } else {
                         //     Swal.fire({
