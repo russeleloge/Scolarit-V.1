@@ -1,4 +1,4 @@
-Projet de Gesttion scolarité utilisant comme langages:
+Projet de Gestion scolarité utilisant comme langages:
   -HTML5 / CSS3 
   -BOOTSTRAP
   -JQUERY
